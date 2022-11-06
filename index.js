@@ -18,9 +18,9 @@ const config = {
     'time': '0810-0820',
     'email': {
         'qq': {
-            'user': '84963568@qq.com',
-            'from': '84963568@qq.com',
-            'to': '84963568@qq.com',
+            'user': '798245549@qq.com',
+            'from': '798245549@qq.com',
+            'to': '798245549@qq.com',
             'pass': ''
         }
     }
